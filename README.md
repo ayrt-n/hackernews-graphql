@@ -2,7 +2,7 @@
 
 ## Overview
 
-Straightforward implementation of a Hackernews clone using Ruby on Rails and GraphQL from https://www.howtographql.com/graphql-ruby/0-introduction/. Features include creating accounts, creating and searching for links, as well as up voting links.
+Implementation of a Hackernews clone using Ruby on Rails and GraphQL from https://www.howtographql.com/graphql-ruby/0-introduction/. Features include creating accounts, creating and searching for links, as well as up voting links.
 
 Having gained some exposure to REST APIs, I have wanted to start digging into and learning about GraphQL, given increased popularity and growing community. This marks one of the first of many future GraphQL projects!
 
